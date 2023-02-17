@@ -8,3 +8,5 @@ Clone the repo in your local system
 ### npm start
 ## Pre-Requisites 
 Install latest version of node from https://nodejs.org/en/
+## Contributing 
+Make Pull request on main branch
